@@ -1,0 +1,10 @@
+ID,firstName,lastName,email,phoneNumber1,phoneNumber2,comment
+1,Vardenis,Pavardenis,vardenis.pavardenis@yahoo.com,+37062213528,862213528,NA
+2,Jonas,Jonaitis,jonas.jonaitiss@gmail.com,+37061111111,861111111,no comment
+3,Antanas,Antanaitis,antanas.antanaits@yahoo.com,+37062213528,862213528,
+4,Petras,Petraitis,petraitiss@gmail.com,+37062213528,862213528,NA
+5,Migle,Miglaite,migle.miglaite@gmail.com,+37062213528,862213528,-
+6,Ausra,Ausraite,ausra.ausraite@yahoo.com,+37062213528,862213528,just checking
+7,Vytas,Vytaitis,vytasvytaitis@yahoo.com,+37062222222,862222222,not available
+8,Kristijonas,Donelaitis,kristijonas.donelaitis@gmail.com,+37062213528,862213528,-
+9,Egle,Eglaite,egle.eglaite@gmail.com,+37062213528,862213528,comment
